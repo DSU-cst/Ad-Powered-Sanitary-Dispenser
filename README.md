@@ -1,5 +1,9 @@
 # Ad-Powered-Sanitary-Dispenser
 
+## Abstract
+The ad-powered free sanitary pads dispenser is a groundbreaking solution to the problem of menstrual product accessibility for women. Anyone who needs it can use the device because it is made to be convenient, user friendly and simple to operate. With this machine, people can just watch an advertisement to get a free sanitary pad without having to pay anything or feel bad about asking for assistance. This is accomplished by using IOT to build the dispenser. The dispenser will have a touchscreen interface for
+user interaction. The mission is to make feminine hygiene products more accessible while providing a unique and effective advertising platform for businesses. By offering free pads in exchange for watching advertisements, a mutually beneficial situation that benefits both users and advertisers is achieved.
+
 ## Problem Statement
 In many developing countries, ensuring menstrual hygiene for women and girls during emergencies poses a critical challenge. The issue at hand is the lack of accessible services that allow women to obtain menstrual hygiene products when they are in urgent need, especially in situations where they do not have money readily available. This gap in essential services significantly jeopardizes the well-being and dignity of women and girls, hindering their ability to manage their menstrual hygiene effectively and comfortably. Addressing this problem is vital to safeguarding the health, safety, and overall quality of life for women and girls in these regions. Providing free pads to women, aims to bridge this gap and ensure that no woman is left without essential menstrual hygiene products during emergencies.
 
