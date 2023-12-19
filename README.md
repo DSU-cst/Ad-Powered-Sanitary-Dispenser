@@ -2,6 +2,7 @@
 
 ## Abstract
 The ad-powered free biodegradable sanitary pads dispenser represents a groundbreaking solution to the issue of menstrual product accessibility for women. The device is designed to be convenient, user-friendly, and simple to operate, making it accessible to anyone in need. Users can obtain a free biodegradable sanitary pad by merely watching an advertisement, eliminating the need for payment or the potential discomfort of seeking assistance. This innovative solution addresses the global challenge of menstrual product accessibility by introducing a revolutionary ad-powered dispenser that distributes biodegradable sanitary pads. Additionally, the dispenser's body is constructed from recycled plastic, aligning the initiative with sustainability goals. This dual-focus approach not only promotes menstrual hygiene but also contributes to environmental conservation, marking a significant step towards a more inclusive and eco-conscious future. The dispenser utilizes IoT (Internet of Things) technology to achieve these goals and features a touchscreen interface for user interaction. The mission is to enhance the accessibility of feminine hygiene products while providing a unique and effective advertising platform for businesses. By offering free pads in exchange for watching advertisements, a mutually beneficial situation that benefits both users and advertisers is achieved.
+Keywords: Free Sanitary Pads, Sanitary Pad Dispenser, IOT, Advertising, IOT dispenser
 
 
 ## Problem Statement
