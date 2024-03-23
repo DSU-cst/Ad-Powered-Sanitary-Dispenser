@@ -1,5 +1,5 @@
-Connection of ESP32 with motor
-Inventory management sensors
+##Connection of ESP32 with motor
+##Inventory management sensors
 3D Printing Prototype
 Connect to AWS IOT Core
 User Interface with OTP Validation 
